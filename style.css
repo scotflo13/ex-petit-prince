@@ -1,0 +1,19 @@
+body {
+  margin-top: 80px;
+  margin-bottom: auto
+}
+
+.titre{
+  text-align: center;
+  color: #9999CC;
+}
+ .auteur{
+   text-align: center;
+ }
+
+.chp-mod{
+  text-align: center;
+  color:#180000;
+  margin-top: 80px;
+  margin-bottom: auto
+}
